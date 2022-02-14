@@ -12,7 +12,7 @@ const LandingPage = () => {
         <LandingContent />
         <Container
           maxW="container.lg"
-          paddingTop={isNotSmallerScreen ? "1px" : "40px"}
+          paddingTop={isNotSmallerScreen ? "1px" : "30px"}
           centerContent
         >
           <ProposalList />
